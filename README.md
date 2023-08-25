@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aakash Kumar</h1>
 <h3 align="center">Junior Data Scientist | Data Analyst | Machine learning | Statistics | Data Analyze | Data Visualization | Passionate about using data to solve real-world problems</h3>
 
-<img align="right" alt="coding" width="400" src="![image](https://github.com/Aakashkumar6663/AakashKumar6663/assets/133656030/bc95ebd4-9733-4532-86f1-4e663102dcf6)
-">
+<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/30c5ffe56bf81306c9af85f60b1e71240939f0abf1b80541dfce8a9dd28cdde4/68747470733a2f2f696e646f616e616c79746963612e636f6d2f7374617469632f696d616765732f646174612d736369656e63652d322e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aakashkumar6663&label=Profile%20views&color=0e75b6&style=flat" alt="aakashkumar6663" /> </p>
 
